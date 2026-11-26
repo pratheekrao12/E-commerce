@@ -1,0 +1,14 @@
+com\yourshop\filter\AuthFilter.class
+com\yourshop\dao\CartDAO.class
+com\yourshop\controller\AuthServlet.class
+com\yourshop\config\DBConfig.class
+com\yourshop\model\User.class
+com\yourshop\controller\AdminProductServlet.class
+com\yourshop\filter\CsrfFilter.class
+com\yourshop\controller\CartServlet.class
+com\yourshop\controller\ProductServlet.class
+com\yourshop\dao\UserDAO.class
+com\yourshop\model\CartItem.class
+com\yourshop\dao\ProductDAO.class
+com\yourshop\model\Product.class
+com\yourshop\filter\AdminFilter.class
